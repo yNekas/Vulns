@@ -1,1 +1,1 @@
-# Web-Vulns
+# Vulns
